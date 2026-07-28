@@ -13,3 +13,9 @@ The project is structured into multiple analytical views:
 ## 🛠️ Tools & Technologies
 * **Power BI:** Data visualization, interactive filtering, and dashboard design.
 * **SQL:** Data extraction, transformation, and date grouping.
+--------------------------------------------------------------------------
+
+## Summary
+<img width="916" height="509" alt="image" src="https://github.com/user-attachments/assets/000a0933-e2df-4f9e-b41f-e66107d2f704" />
+Overall, the data looks very healthy, with a total of 826 completed purchases.
+👉The overall conversion rate from total views to purchase is 8.81%, which is exceptionally high. This indicates strong user intent and product-market fit for visitors landing on the site.
