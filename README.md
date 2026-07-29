@@ -11,11 +11,12 @@ The project is structured into multiple analytical views:
 ## Tools & Technologies
 * **Power BI:** Data visualization, interactive filtering, dashboard design, organize & prepare tables, connect tables for data model, calculations 
 * **SQL:** Data extraction, transformation, and date grouping, calculations
+
+link to dashboard: https://app.powerbi.com/links/FAgo91Qo1c?ctid=d4fcc57e-1cd6-48da-b1ca-7f19f1e2b3ac&pbi_source=linkShare
+
 --------------------------------------------------------------------------
 
 ## Summary
-
-link to dashboard: https://app.powerbi.com/links/FAgo91Qo1c?ctid=d4fcc57e-1cd6-48da-b1ca-7f19f1e2b3ac&pbi_source=linkShare
 
 <img width="911" height="484" alt="image" src="https://github.com/user-attachments/assets/3033a943-e0e1-4b4f-985e-6f4d78fd1dc9" />
 
