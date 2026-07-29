@@ -15,6 +15,8 @@ The project is structured into multiple analytical views:
 
 ## Summary
 
+link to dashboard: https://app.powerbi.com/links/FAgo91Qo1c?ctid=d4fcc57e-1cd6-48da-b1ca-7f19f1e2b3ac&pbi_source=linkShare
+
 <img width="911" height="484" alt="image" src="https://github.com/user-attachments/assets/3033a943-e0e1-4b4f-985e-6f4d78fd1dc9" />
 
 Overall, the data looks consistent and healthy. Many visitors only browse the website, which is completely normal. Regarding traffic sources, email is the most successful channel, showing higher interaction rates than any other source. We should focus our primary attention here, as the purchase completion rate reaches 12%. On the other hand, social media generates the weakest traffic quality—most users merely browse the site without further interaction or making a purchase, resulting in a purchase completion rate of only 5%
