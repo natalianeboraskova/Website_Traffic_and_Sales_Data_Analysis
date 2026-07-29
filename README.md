@@ -1,5 +1,4 @@
 # Website Traffic and Sales Data Analysis
-End-to-end website traffic and e-commerce sales analytics project built with Power BI and SQL
 An interactive Power BI dashboard designed to analyze e-commerce performance, user behavior, and sales trends based on event logs and traffic sources
 
 ## Dashboard Overview
